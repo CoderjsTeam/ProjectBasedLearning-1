@@ -15,7 +15,13 @@ Untuk materi minggu pertama silahkan lihat [link berikut](http://bit.ly/coderjs-
 
 
 ### Pertanyaan
+
 :question: Jika ada pertanyaan silahkan membuka diskusi di grup [Telegram](bit.ly/coderjsorg)
+
+
+### Demo Project
+
+klik [ini](https://coderjsteam.github.io/ProjectBasedLearning-1/) untuk melihat demo project
 
 ### Notes
 
