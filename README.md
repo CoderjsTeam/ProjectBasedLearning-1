@@ -11,7 +11,7 @@ Project ini adalah materi pada minggu pertama **Project Based Learning**, adapun
 
 ### Materi
 
-Untuk materi minggu pertama silahkan lihat [link berikut](http://bit.ly/coderjs-minggu1).
+Untuk materi minggu pertama silahkan lihat [link berikut].
 
 
 ### Pertanyaan
