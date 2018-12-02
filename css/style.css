@@ -282,7 +282,7 @@ header nav ul .selected{
 }
 
 .projects_list ul li a .project1{
-    background: url('img/project1.png') no-repeat;
+    background: url('../img/project1.png') no-repeat;
     width: 58px;
     height: 124px;
     left: 50%;
@@ -290,18 +290,18 @@ header nav ul .selected{
 }
 
 .projects_list ul li a:hover .project1{
-    background: url('img/project1_hover.png') no-repeat;
+    background: url('../img/project1_hover.png') no-repeat;
 }
 
 .projects_list ul li a .project2{
-    background: url('img/project2.png') no-repeat;
+    background: url('../img/project2.png') no-repeat;
     width: 85px;
     left: 50%;
     margin-left: -29px;
 }
 
 .projects_list ul li a:hover .project2{
-    background: url('img/project2_hover.png') no-repeat;
+    background: url('../img/project2_hover.png') no-repeat;
 }
 /* Style Projects */
 
@@ -415,19 +415,19 @@ footer .sm ul li a:before{
 
 footer .sm ul li .facebook:before{
     height: 14px;
-    background: url('img/fb.png') no-repeat;
+    background: url('../img/fb.png') no-repeat;
     vertical-align: middle;
 }
 
 footer .sm ul li .github:before{
     height: 15px;
-    background: url('img/github.png') no-repeat;
+    background: url('../img/github.png') no-repeat;
     vertical-align: middle;
 }
 
 footer .sm ul li .instagram:before{
     height: 14px;
-    background: url('img/ig.png') no-repeat;
+    background: url('../    img/ig.png') no-repeat;
     vertical-align: middle;
 }
 
