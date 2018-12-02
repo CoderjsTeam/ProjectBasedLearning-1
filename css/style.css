@@ -69,6 +69,7 @@ h3 {
   content: ' ';
   display: table;
 }
+
 .clearfix:after {
   clear: both;
 }
@@ -182,10 +183,9 @@ header nav ul .selected {
   padding: 0.25em 40px;
   line-height: 1.45;
   position: relative;
-  color:white;
-} */
-
-#slides blockquote:before {
+  color: white;
+}
+*/ #slides blockquote:before {
   display: block;
   content: '\201C';
   font-size: 80px;
@@ -306,6 +306,7 @@ header nav ul .selected {
 }
 
 .projects_list ul {
+  /* margin-left: 20rem; */
   list-style: none;
 }
 
@@ -329,27 +330,35 @@ header nav ul .selected {
   border: 4px solid #ec3636;
 }
 
+.projects_list ul li a span{
+  position: absolute;
+  height: 124px;
+  top: 50%;
+  margin-top: -52 px;
+}
+
+/* Style Projects */
 .projects_list ul li a .project1{
-    background: url('../img/project1.png') no-repeat;
-    width: 58px;
-    height: 124px;
-    left: 50%;
-    margin-left: -29px;
+  background: url('../img/project1.png') no-repeat;
+  width: 58px;
+  height: 124px;
+  left: 50%;
+  margin-left: -29px;
 }
 
-.projects_list ul li a:hover .project1{
-    background: url('../img/project1_hover.png') no-repeat;
+.projects_list ul li a:hover .project1 {
+  background: url('../img/project1_hover.png') no-repeat;
 }
 
-.projects_list ul li a .project2{
-    background: url('../img/project2.png') no-repeat;
-    width: 85px;
-    left: 50%;
-    margin-left: -29px;
+.projects_list ul li a .project2 {
+  background: url('../img/project2.png') no-repeat;
+  width: 85px;
+  left: 50%;
+  margin-left: -29px;
 }
 
-.projects_list ul li a:hover .project2{
-    background: url('../img/project2_hover.png') no-repeat;
+.projects_list ul  li a:hover .project2 {
+  background: url('../img/project2_hover.png') no-repeat;
 }
 
 .projects_list ul li a:hover .project2 {
@@ -367,7 +376,6 @@ header nav ul .selected {
 .projects_list ul li a:hover .project3 {
   background: url('../img/project1_hover.png') no-repeat;
 }
-/* Style Projects */
 
 /* Style Contact */
 .contact {
@@ -472,22 +480,22 @@ footer .sm ul li a:before {
   margin-right: 20px;
 }
 
-footer .sm ul li .facebook:before{
-    height: 14px;
-    background: url('../img/fb.png') no-repeat;
-    vertical-align: middle;
+footer .sm ul li .facebook:before {
+  height: 14px;
+  background: url('../img/fb.png') no-repeat;
+  vertical-align: middle;
 }
 
-footer .sm ul li .github:before{
-    height: 15px;
-    background: url('../img/github.png') no-repeat;
-    vertical-align: middle;
+footer .sm ul li :before {
+  height: 15px;
+  background: url('../img/github.png') no-repeat;
+  vertical-align: middle;
 }
 
-footer .sm ul li .instagram:before{
-    height: 14px;
-    background: url('../    img/ig.png') no-repeat;
-    vertical-align: middle;
+footer .sm ul li .instagram:before {
+  height: 14px;
+  background: url('../img/ig.png') no-repeat;
+  vertical-align: middle;
 }
 
 footer .address p {
