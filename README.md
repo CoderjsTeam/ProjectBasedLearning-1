@@ -11,17 +11,17 @@ Project ini adalah materi pada minggu pertama **Project Based Learning**, adapun
 
 ### Materi
 
-Untuk materi minggu pertama silahkan lihat [link berikut].
+Untuk materi minggu pertama silahkan lihat [link berikut](bit.ly/coderjs-minggu1).
 
 
 ### Pertanyaan
 
-:question: Jika ada pertanyaan silahkan membuka diskusi di grup [Telegram](bit.ly/coderjsorg)
+:question: Jika ada pertanyaan silahkan membuka diskusi di grup [Telegram](bit.ly/coderjsorg).
 
 
 ### Demo Project
 
-klik [ini](https://coderjsteam.github.io/ProjectBasedLearning-1/) untuk melihat demo project
+klik [ini](https://coderjsteam.github.io/ProjectBasedLearning-1/) untuk melihat demo project.
 
 ### Notes
 
