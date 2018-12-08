@@ -1,4 +1,7 @@
 /* style emelent */
+html {
+  scroll-behavior: smooth;
+}
 
 html,
 body,
@@ -330,7 +333,7 @@ header nav ul .selected {
   border: 4px solid #ec3636;
 }
 
-.projects_list ul li a span{
+.projects_list ul li a span {
   position: absolute;
   height: 124px;
   top: 50%;
@@ -338,7 +341,7 @@ header nav ul .selected {
 }
 
 /* Style Projects */
-.projects_list ul li a .project1{
+.projects_list ul li a .project1 {
   background: url('../img/project1.png') no-repeat;
   width: 58px;
   height: 124px;
@@ -357,7 +360,7 @@ header nav ul .selected {
   margin-left: -29px;
 }
 
-.projects_list ul  li a:hover .project2 {
+.projects_list ul li a:hover .project2 {
   background: url('../img/project2_hover.png') no-repeat;
 }
 
