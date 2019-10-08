@@ -8,10 +8,9 @@ Project ini adalah materi pada minggu pertama **Project Based Learning**, adapun
 - Pengenalan Program
 - Basic HTML
 - Basic CSS
+- Javascript
 
-### Materi
 
-Untuk materi minggu pertama silahkan lihat [link berikut](bit.ly/coderjs-minggu1).
 
 
 ### Pertanyaan
